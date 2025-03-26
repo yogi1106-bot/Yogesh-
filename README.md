@@ -64,7 +64,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Vignesh Mathiyalagan</p>
+        <p>&copy; 2025 Yogeshwaran</p>
     </footer>
 
 </body>
