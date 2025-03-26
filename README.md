@@ -12,7 +12,7 @@
         <div class="header-content">
             <img src="images/profile.jpg" alt="Your Profile Picture">
             <h1>Yogeshwaran</h1>
-            <p>omputer Science </p>
+            <p>computer Science </p>
         </div>
     </header>
 
