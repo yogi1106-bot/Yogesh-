@@ -3,13 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yogeshwaran - Portfolio</title>
+    <title>Vignesh Mathiyalagan - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
     <header>
-        <h1>Yogeshwaran</h1>
-        <p>student</p>
+        <div class="header-content">
+            <img src="images/profile.jpg" alt="Your Profile Picture">
+            <h1>Vignesh Mathiyalagan</h1>
+            <p>Cyber Security Expert | Electronics Engineer</p>
+        </div>
     </header>
 
     <nav>
@@ -29,7 +33,7 @@
 
     <section id="education">
         <h2>Education</h2>
-        <p>student</p>
+        <p>Anna University - Electrical & Electronics Engineering</p>
     </section>
 
     <section id="skills">
@@ -60,7 +64,8 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Yogeshwaran</p>
+        <p>&copy; 2025 Vignesh Mathiyalagan</p>
     </footer>
+
 </body>
 </html>
