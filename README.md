@@ -1,15 +1,35 @@
-li>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yogeshwaran - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Yogeshwaran</h1>
+        <p>student</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
             <li><a href="#resume">Resume</a></li>
         </ul>
     </nav>
 
     <section id="about">
         <h2>About Me</h2>
-        <p>I am a <strong>cyber security</strong> expert passionate about protecting data and creating secure online environments. With over 7 years o
+        <p>I am a <strong>cyber security</strong> expert passionate about protecting data and creating secure online environments. With over 7 years of experience, I help businesses stay safe online.</p>
+    </section>
 
     <section id="education">
         <h2>Education</h2>
-        <p>Anna University - Electrical & Electronics Engineering</p>
+        <p>student</p>
     </section>
 
     <section id="skills">
@@ -40,10 +60,7 @@ li>
     </section>
 
     <footer>
-        <p>&copy; 2025 Vignesh Mathiyalagan</p>
+        <p>&copy; 2025 Yogeshwaran</p>
     </footer>
 </body>
 </html>
-
-    
- 
