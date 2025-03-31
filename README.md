@@ -28,7 +28,7 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>I am a <strong>cyber security</strong> expert passionate about protecting data and creating secure online environments. With over 7 years of experience, I help businesses stay safe online.</p>
+        <p>I am a <strong> computer </strong> expert passionate about protecting data and creating secure software. With over 5 years of experience, I help businesses stay safe online.</p>
     </section>
 
     <section id="education">
